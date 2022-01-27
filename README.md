@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Soy un desarrollador
 
 - 🔭 Actualmente estoy estudiando OCP Java SE 11
-- 🌱 Aprendiendo Lenguaje de programación GO
+- 🌱 Aprendiendo Lenguaje de programación RUST
 - ⚡ Hobbies: Proyectos electrónicos, leer, filosofía, historia, jardinería, bicicleta
 
 ### Contacto:
