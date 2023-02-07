@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ### Contacto:
 
 [<img align="left" alt="cristian658 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Ssuper_HansS)
-[<img align="left" alt="cristian.qs.658 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cristian.qs.658/)
-[<img align="left" alt="cristian.658 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:cristian.658@gmail.com)
+
+[<img align="left" alt="cristian.658 | GMAIL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:cristian.658@gmail.com)
 
 <br />
 
